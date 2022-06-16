@@ -1,4 +1,8 @@
 # Gas and Anomaly Detectors
+This repository holds the files to replicate the results. 
+Step 0 and 1 explains how all the files from the dataset are loaded and features extracted. 
+The process can take hours so files containing all the features for each experiment are also included to skip these steps. 
+2 shows the results from the tree-based gas leak detector, and 3 shows the occ anomaly detector results.  
 
 ## 0. Get the Dataset
 To use the datset used in this project without having to download 20GB, follow this link to create a shortcut to the folder: 
