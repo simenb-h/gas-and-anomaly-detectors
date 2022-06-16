@@ -1,5 +1,5 @@
 # Gas and Anomaly Detectors
-This repository holds the files to replicate the results. 
+This repository holds the files to replicate the results of the thesis. 
 Step 0 and 1 explains how all the files from the dataset are loaded and features extracted. 
 The process can take hours so files containing all the features for each experiment are also included to skip these steps. 
 2 shows the results from the tree-based gas leak detector, and 3 shows the occ anomaly detector results.  
