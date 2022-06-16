@@ -1,4 +1,4 @@
-# gas-and-anomaly-detectors
+# Gas and Anomaly Detectors
 
 ## 0. Get the Dataset
 To use the datset used in this project without having to download 20GB, follow this link to create a shortcut to the folder: 
