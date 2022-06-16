@@ -24,6 +24,9 @@ Open the file: "file_information_retrivel.ipynb" by clicking the button below an
 ## 2. Creating and saving feature tables
 
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17L4cbh0ChBKd1AcEx8-NyNAnQzezaSVC#scrollTo=DRqeCOvk6gOD)
+
+
 ## 3. Gas leak detection
 
 
