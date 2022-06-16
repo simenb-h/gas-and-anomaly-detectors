@@ -10,10 +10,6 @@ Click on the "IDMT_dataset" drop-down below the search bar in Drive and click: "
 The folder should now be stored  in "My Drive". 
 
 
-
-
-
-
 ## 1. Preloading files
 The second step is to extract information about each file based on the path to be able to group files based on environments, microphone, leak etc. 
 
@@ -28,7 +24,15 @@ Open the file: "file_information_retrivel.ipynb" by clicking the button below an
 
 
 ## 3. Gas leak detection
+The file below is used to execute the four gas leak detection experiments (E1-E4). 
+First the features created in step 1 are loaded, before running the cells for the relevant experiment.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dOWtMDvH176oK6659c7aSGjpkiH1JCWZ#scrollTo=1MDNp_w6jHd1)
 
+
 ## 4. OCC anomaly detection
+The file below is used to execute the OCC anomaly detection experiments. 
+First the features created in step 1 are loaded, before running the cells for the relevant experiment.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1u79AP-jrv9ObgXY604Aae-O7rS0nRKvd#scrollTo=hC7Y0q9qwsEc)
+
