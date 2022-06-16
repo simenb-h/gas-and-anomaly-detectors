@@ -29,5 +29,6 @@ Open the file: "file_information_retrivel.ipynb" by clicking the button below an
 
 ## 3. Gas leak detection
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dOWtMDvH176oK6659c7aSGjpkiH1JCWZ#scrollTo=1MDNp_w6jHd1)
 
 ## 4. OCC anomaly detection
