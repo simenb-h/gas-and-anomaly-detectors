@@ -19,7 +19,7 @@ The second step is to extract information about each file based on the path to b
 
 Open the file: "file_information_retrivel.ipynb" by clicking the button below and follow the instructions to create a "wav_paths_master.csv" file that is needed later. 
 
-#%[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1GTMN3hnGozSTJDnWN2cE_vMZ19Dyw2Ql#scrollTo=zdhJrmQ7yGa9)
+[![Open In Colab](https://colab.research.google.com/drive/1QJLe1TaPOdXvV55k4yboLGHj8_DijRRQ)
 
 
 ## 2. Creating and saving feature tables
