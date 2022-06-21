@@ -22,7 +22,7 @@ Open the file: "file_information_retrivel.ipynb" by clicking the button below an
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QJLe1TaPOdXvV55k4yboLGHj8_DijRRQ)
 
 ## 2. Creating and saving feature tables
-
+Next step is to load the files that are relevant for each experiment and extract the desired features. 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17L4cbh0ChBKd1AcEx8-NyNAnQzezaSVC#scrollTo=DRqeCOvk6gOD)
 
