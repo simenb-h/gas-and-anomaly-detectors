@@ -26,6 +26,10 @@ Next step is to load the files that are relevant for each experiment and extract
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17L4cbh0ChBKd1AcEx8-NyNAnQzezaSVC#scrollTo=DRqeCOvk6gOD)
 
+If using the pre-created features is prefered, follow this link and create a shortcut to the folder as in step 0. 
+
+https://drive.google.com/drive/folders/1YHmpr-a8FPFA3dOKW2fj4No_QOiY9AjM
+
 
 ## 3. Gas leak detection
 The file below is used to execute the four gas leak detection experiments (E1-E4). 
