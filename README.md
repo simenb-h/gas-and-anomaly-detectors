@@ -1,7 +1,7 @@
 # Gas and Anomaly Detectors
 This repository holds the files to replicate the results of the thesis. 
 
-The code can be seen either by clicking the files above, or following the steps below to run code in google colab. 
+The code can be observed either by clicking the files above to view them, or following the steps below to run code in google colab. 
 
 Step 1 and 2 explains how all the files from the dataset are loaded and features extracted. 
 The process can take hours so files containing all the features for each experiment are also included to skip these steps. 
